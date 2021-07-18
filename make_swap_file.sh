@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SWAP_SIZE="4" # GB
+SWAP_SIZE=4 # GB
 
 if [ "$(whoami)" == "root" ]; then
 	swap=$(echo "$SWAP_SIZE * 1024" | bc)
