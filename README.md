@@ -1,1 +1,1 @@
-Just couple of my bash scripts
+Just couple of my useless bash scripts
